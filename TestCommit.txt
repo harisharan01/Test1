@@ -1,1 +1,3 @@
 This is my first commit to my repo.
+
+Now from intellij. Test git.
